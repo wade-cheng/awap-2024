@@ -1,4 +1,4 @@
 {
-    "bots": ["bots/random_bot.py", "bots/nothing_bot.py"],
-    "map": "maps/spiral.awap24m"
+    "bots": ["bots/final.py", "bots/saffron_naive05_03.py"],
+    "map": "maps/meow.awap24m"
 }

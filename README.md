@@ -1,5 +1,9 @@
 # AWAP 2024 Game Engine
 
+## Team meow's Repo
+
+This is team meow's repo for AWAP 2024. Our final code is in `./bots/final.py`.
+
 ## Installation
 `pip install compress_json pygame`
 
